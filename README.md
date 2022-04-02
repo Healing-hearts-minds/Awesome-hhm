@@ -35,9 +35,9 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 
 ## Videos
 
-| Title                      | URL                                                            | Tags                  |
-|----------------------------|----------------------------------------------------------------|-----------------------|
-
+| Title               | By          | URL                                               | Tags                  |
+|---------------------|-------------|---------------------------------------------------|-----------------------|
+| Everyday Leadership | Drew Dudley | https://youtu.be/uAy6EawKKME                      | #Impact               |
 
 ## Research Papers
 
