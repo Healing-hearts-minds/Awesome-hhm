@@ -14,11 +14,11 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 
 ## Websites
 
-<table>
+<table style="width:100%">
 <tbody>
 <tr>
-  <td><b>&nbsp;Name</b></td>
-  <td><b>&nbsp;Description</b></td>
+  <th style="width:30%"><b>&nbsp;Name</b></th>
+  <th><b>&nbsp;Description</b></th>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://kathleensmith.net/2019/09/14/are-you-an-anxious-fixer/">Are you an anxious fixer?</td>
