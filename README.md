@@ -15,21 +15,54 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 ## Websites
 
 <table>
-  <thead>
-    <tr>
-        <th>Name</th>
-        <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-      <tr>
-        <td width="240">
-          <div>
-              <a href="https://kathleensmith.net/2019/09/14/are-you-an-anxious-fixer/">
- <b>Are you an anxious fixer?</b>
-              </a>
-          </div>
-        </td>
-    </tr>
-  </tbody>
+<tbody>
+<tr>
+  <td><b>&nbsp;Name</b></td>
+  <td><b>&nbsp;Description</b></td>
+</tr>
+<tr>
+<td>&nbsp;<a href="https://www.google.com">Are you an anxious fixer?</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
 </table>
