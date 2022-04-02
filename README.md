@@ -14,11 +14,11 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 
 ## Websites
 
-| Title                      | URL                                                            |
-|----------------------------|----------------------------------------------------------------|
-| Are you an anxious fixer?  | https://kathleensmith.net/2019/09/14/are-you-an-anxious-fixer/ |
-| The Elephant and The Rope. | https://sofoarchon.com/short-story-the-elephant-and-the-rope/  |
-|                            |                                                                |
-|                            |                                                                |
-|                            |                                                                |
+| Title                      | URL                                                            | Tags                  |
+|----------------------------|----------------------------------------------------------------|-----------------------|
+| Are you an anxious fixer?  | https://kathleensmith.net/2019/09/14/are-you-an-anxious-fixer/ | #Anxious              |
+| The Elephant and The Rope. | https://sofoarchon.com/short-story-the-elephant-and-the-rope/  | #Learned Helplessness |
+|                            |                                                                |                       |
+|                            |                                                                |                       |
+|                            |                                                                |                       |
 
