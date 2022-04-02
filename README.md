@@ -17,7 +17,7 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 <table style="width:100%">
 <tbody>
 <tr>
-  <th style="width:30%"><b>&nbsp;Name</b></th>
+  <th style="width:50%"><b>&nbsp;Name</b></th>
   <th><b>&nbsp;Description</b></th>
 </tr>
 <tr>
