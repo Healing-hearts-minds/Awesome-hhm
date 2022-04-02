@@ -21,8 +21,8 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
   <td><b>&nbsp;Description</b></td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://www.google.com">Are you an anxious fixer?</td>
-<td>&nbsp;</td>
+<td>&nbsp;<a href="https://kathleensmith.net/2019/09/14/are-you-an-anxious-fixer/">Are you an anxious fixer?</td>
+<td>&nbsp;Distress is contagious. And we are most susceptible to the distress of the people we love the most. So it’s no surprise that a person’s automatic reaction is to jump in and fix the distress in front of them. We offer solutions, take control, or even criticize. Or we comfort, encourage, and try to convince them of their own capabilities.</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
