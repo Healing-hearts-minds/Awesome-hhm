@@ -35,9 +35,12 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 
 ## Videos
 
-| Title               | By          | URL                                               | Tags                  |
-|---------------------|-------------|---------------------------------------------------|-----------------------|
-| Everyday Leadership | Drew Dudley | https://youtu.be/uAy6EawKKME                      | #Impact               |
+| Title                       | By          | URL                                               | Tags                  |
+|-----------------------------|-------------|---------------------------------------------------|-----------------------|
+| Everyday Leadership         | Drew Dudley | https://youtu.be/uAy6EawKKME                      | #Impact               |
+| Listening to shame          | Brene Brown | https://www.youtube.com/watch?v=psN1DORYYV0       | #Shame                |
+| We need to talk about shame | Brene Brown | https://www.youtube.com/watch?v=5C6UELitWkw       | #Shame, #Guilt        |
+
 
 ## Research Papers
 
