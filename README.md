@@ -40,6 +40,8 @@ _See [CONTRIBUTING.md](/CONTRIBUTING.md) for details on generation and contribut
 | Everyday Leadership         | Drew Dudley | https://youtu.be/uAy6EawKKME                      | #Impact               |
 | Listening to shame          | Brene Brown | https://www.youtube.com/watch?v=psN1DORYYV0       | #Shame                |
 | We need to talk about shame | Brene Brown | https://www.youtube.com/watch?v=5C6UELitWkw       | #Shame, #Guilt        |
+| Unwaivering Focus           | Dandapani   | https://www.youtube.com/watch?v=4O2JK_94g3Y       | #Focus, #Meditation   |
+| All the lonely people       | Karen Dolva | https://youtu.be/j-Gil9l8yIE                      | #Loneliness           |
 
 
 ## Research Papers
